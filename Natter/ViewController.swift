@@ -13,6 +13,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("head")
+        
+        print("head")
+        print("head")
+        
+        
         // Do any additional setup after loaßding the view.
     }
 
